@@ -1,0 +1,8 @@
+/RUNNING_PID
+bigquery
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
+src/main/resources/client_secrets.json
